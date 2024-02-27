@@ -1,6 +1,8 @@
 # Assignment
 # API Documentation
 
+![Demonstration video](https://drive.google.com/file/d/147DOGyG-C-eTuzvuztOvyUo8UeSoaZeR/view?usp=sharing)
+
 ## List app Users
 
 - **URL:** `/users`
