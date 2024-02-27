@@ -1,6 +1,5 @@
 # Assignment
 # API Documentation
-# API Documentation
 
 ## List app Users
 
